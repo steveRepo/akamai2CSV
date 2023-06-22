@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jmespath": "^0.16.0",
+    "jsonexport": "^3.2.0"
+  }
+}
